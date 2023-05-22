@@ -1,6 +1,6 @@
 ### Hi there 👋🏽
 
-- 👀 Checkout my <a href="roger-wetter.com" target=”_blank”>Website</a>
+- 👀 Checkout my <a href="http://roger-wetter.com/" target=”_blank”>Website</a>
 - 👨🏽‍💻 View my <a href="https://www.linkedin.com/in/roger-wetter/" target=”_blank”>LinkedIn Profile</a>
 - 📫 How to reach me: info@roger-wetter.com
 - ⚡ Fun fact: ...
