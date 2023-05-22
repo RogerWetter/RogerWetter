@@ -3,7 +3,7 @@
 - 👀 Checkout my <a href="http://roger-wetter.com/" target=”_blank”>Website</a>
 - 👨🏽‍💻 View my <a href="https://www.linkedin.com/in/roger-wetter/" target=”_blank”>LinkedIn Profile</a>
 - 📫 How to reach me: info@roger-wetter.com
-- ⚡ Fun fact: ...
+- ⚡ 
 
 <!--
 **RogerWetter/RogerWetter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
