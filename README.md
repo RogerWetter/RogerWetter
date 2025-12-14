@@ -1,8 +1,7 @@
 ### Hi there 👋🏽
 
 - 👀 Checkout my <a href="http://roger-wetter.com/" target=”_blank”>Website</a>
-- 👨🏽‍💻 View my <a href="https://www.linkedin.com/in/roger-wetter/" target=”_blank”>LinkedIn Profile</a> or my <a href="https://read.cv/rogerwetter" target=”_blank”>CV</a>
-- 📫 How to reach me: info@roger-wetter.com
+- 👨🏽‍💻 View my <a href="https://www.linkedin.com/in/roger-wetter/" target=”_blank”>LinkedIn Profile</a>
 - ⚡ 
 
 <!--
